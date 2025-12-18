@@ -1,12 +1,14 @@
-## Hi there （\*＾ワ＾\*）
+## Hi (^·ω·^=)
 
-awa
+```
+while (true) {
+    me.sleep();
+}
+```
 
-Currently learning:
+Learning:
 
 - Java
-- JavaScript
-- TypeScript
-- Vue
+- JS & TS
 - C
 - C#
